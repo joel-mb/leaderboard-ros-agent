@@ -1,0 +1,4 @@
+<launch>
+  <node pkg="dummy_agent" name="dummy_agent" type="dummy_agent.py" output="screen" required="true"/>
+</launch>
+
